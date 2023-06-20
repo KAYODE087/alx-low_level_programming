@@ -1,7 +1,7 @@
+# Functions, nested loops
+		
 Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about header files, functions, loops and nested loops in **C language**.
-		
-
-		
+				
 ## Technologies
 		
 * C files are compiled using `gcc 4.8.4`
@@ -55,7 +55,4 @@ All of the following files are programs written in C:
 | `103-fibonacci.c` | Finds and prints the sum of the even-valued terms |
 		
 | `104-fibonacci.c` | Finds and prints the first 98 Fibonacci numbers |
-
-
-
 
